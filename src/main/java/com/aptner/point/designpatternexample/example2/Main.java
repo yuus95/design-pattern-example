@@ -1,9 +1,8 @@
 package com.aptner.point.designpatternexample.example2;
 
-import com.aptner.point.designpatternexample.example2.domain.subject.AdControl;
 import com.aptner.point.designpatternexample.example2.domain.observer.EmailObserver;
 import com.aptner.point.designpatternexample.example2.domain.observer.SlackObserver;
-
+import com.aptner.point.designpatternexample.example2.domain.subject.AdControl;
 
 public class Main {
 
